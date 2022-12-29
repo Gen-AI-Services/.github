@@ -15,3 +15,7 @@
   ...goodies in here.
 </details>
 
+<dl>
+  <dt>This is a list</dt>
+  <dd>With hanging indentation</dd>
+</dl>
